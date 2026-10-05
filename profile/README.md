@@ -3,9 +3,6 @@
   public disclosure. The wording below is based on Talisman's public website.
 -->
 
-<p align="center">
-  <img src="./tal_logo.png" alt="Talisman Therapeutics" width="620">
-</p>
 
 # Talisman Therapeutics
 
